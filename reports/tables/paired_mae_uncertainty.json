@@ -1,0 +1,7 @@
+{
+  "comparison": "RF MAE minus type-median MAE; 2024",
+  "difference": 3.943586010150946,
+  "conditional_bootstrap_95_lower": -2.2963878013141112,
+  "conditional_bootstrap_95_upper": 10.177334795718359,
+  "n_properties": 559
+}

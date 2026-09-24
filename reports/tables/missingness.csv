@@ -1,0 +1,16 @@
+,missing,unique
+property_id,0,654
+report_year,0,7
+organization,40,31
+city,0,6
+latitude,0,598
+longitude,0,598
+floor_area_m2,1,1013
+year_built,0,92
+property_type,1,42
+site_eui,1,523
+source_eui,1,627
+ghg_intensity,40,2739
+total_ghg_t,40,2737
+energy_star_score,689,100
+water_intensity,2307,217
