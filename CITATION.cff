@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this software and acknowledge the City of Calgary BenchmarkYYC data source."
+title: "Calgary Building Energy Benchmarking: Property, Spatial and Temporal Evaluation"
+type: software
+authors:
+  - family-names: Nemati
+    given-names: Amir
+    affiliation: ""
+    website: "https://github.com/Amirnemati13"
+version: 0.1.0
+date-released: 2026-09-24
+url: "https://github.com/Amirnemati13/calgary-building-energy-benchmarking"
+repository-code: "https://github.com/Amirnemati13/calgary-building-energy-benchmarking"
+license: MIT
+keywords:
+  - building energy
+  - Calgary
+  - benchmarking
+  - spatial validation
+  - temporal validation
+  - model interpretation
+abstract: >-
+  Reproducible evaluation of annual site energy-use intensity in public
+  BenchmarkYYC disclosures. Fixed regression models are compared with
+  property-type medians and previous-year consumption under property-grouped,
+  spatial and temporal evaluation. English and Persian notebooks and
+  documentation accompany the analysis.
