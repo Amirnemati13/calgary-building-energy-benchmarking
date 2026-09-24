@@ -1,0 +1,64 @@
+{
+  "downloaded_utc": "2026-09-24T10:54:40.894174+00:00",
+  "program_url": "https://www.calgary.ca/environment/programs/building-energy-benchmarking-program.html",
+  "map_url": "https://grid.opentech.eco/orgs/calgary/viz",
+  "config_url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/config",
+  "config_sha256": "63095a92d88d97d545cd0e66ea008d1d13a56326c9a1b17d96d9b30a555609e7",
+  "endpoints": [
+    {
+      "year": 2019,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=c692954e-0b4c-4ba1-b5ca-ebec1718f61b",
+      "rows": 269,
+      "sha256": "983305745b64cdadd3baf85a38ec6ac7722b1033f8756dc9f3b7c4797d94d930"
+    },
+    {
+      "year": 2020,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=e24a8f7e-fa42-4a2e-9b05-37fe3e7c202a",
+      "rows": 278,
+      "sha256": "4bb8a3124161b3774483330b1caa6b62b60c95a558393eff693829e4fd733ac6"
+    },
+    {
+      "year": 2021,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=3262f796-82ab-40c6-8ebe-3028fef30815",
+      "rows": 282,
+      "sha256": "52de955a3ce67ff33304cddedef27e870dd45857566b16800e468d2926894f65"
+    },
+    {
+      "year": 2022,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=be32cb07-255b-434c-b436-ae72a1af6eac",
+      "rows": 346,
+      "sha256": "b4ad8124669cea9cc27dba03b0ffeee42e4f82ebb4d1cd4e35c95890d1114ca5"
+    },
+    {
+      "year": 2023,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=f9add47a-d646-4fba-976e-27487933110b",
+      "rows": 580,
+      "sha256": "c274629aeb7264d6829383bde8fb1cd8b1efe02402ea96489bbb60c996c8b927"
+    },
+    {
+      "year": 2024,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=f9aa1ba7-3799-40a5-bdfb-659b063d24c4",
+      "rows": 559,
+      "sha256": "0b8c64a7d7aff20e1115acd82862e7161e45d4a3f048e9a7864d8b6d1828c310"
+    },
+    {
+      "year": 2025,
+      "url": "https://grid.opentech.eco/orgs/calgary/api/public/v2/viz/properties?cycle-id=550862bd-32e7-466b-b335-03df5d61ee89",
+      "rows": 467,
+      "sha256": "42607ed32bffa39401d3ba030dbf200d5dde62ed5d7f8c3e3c632e45b7e6f861"
+    }
+  ],
+  "units": {
+    "eui-site": "kWh/m**2/year",
+    "eui-source": "kWh/m**2/year",
+    "gross-floor-area": "m**2",
+    "year-built": "year",
+    "ghg-intensity": "kgCO2e/m**2/year",
+    "ghg-total": "tCO2e/year",
+    "energy-star-score": "energystar",
+    "water-use-intensity": "m**3/m**2/year"
+  },
+  "records": 2781,
+  "unique_properties": 654,
+  "panel_sha256": "56bcb331177d8717bebd78e5482fd626986b13e8fc384d038bf34186415d7e61"
+}
